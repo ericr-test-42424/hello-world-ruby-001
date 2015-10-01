@@ -27,7 +27,7 @@ The first step is to create a text file called `hello_world.rb`. The `.rb` file 
 
 ### Step 2
 
-In the file `hello_world.rb` that you created, you need to write a single line of code that prints the string Hello World! to your terminal. Did you notice the method for printing in Ruby in another lab? It is short for "output string." It's the method `puts`. And remember how to make a string in Ruby? Just surround your text with `""`. 
+In the file `hello_world.rb` that you created, you need to write a single line of code that prints the string Hello World! to your terminal. Did you notice the method for printing in Ruby in another lab? It is short for "output string." It's the method `puts`. And remember how to make a string in Ruby? Just surround your text with `""`.
 
 File: `hello_world.rb`
 ```ruby
@@ -58,3 +58,5 @@ Add, Commit and Push your code to GitHub and open a pull request and this lab is
 ![Hello World! Art](https://d32dm0rphc51dk.cloudfront.net/b6JQ66-0nHij79irJT-Pdg/large.jpg)
 
 _[Hello World! by Brian Kernighan, from Artsy's Algorythm Auction](https://www.artsy.net/artwork/brian-kernighan-hello-world) based on a 1974 Bell Laboratories internal memorandum by Brian Kernighan, Programming in C: A Tutorial, which contains the first known version._
+
+# test
